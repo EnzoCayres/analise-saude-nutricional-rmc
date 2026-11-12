@@ -1,0 +1,11 @@
+variavel,descricao,amostra,n,rho,p
+renda_2010,renda domiciliar per capita 2010,todos os municípios,20,0.18,0.4465
+gini_2010,índice de Gini 2010,todos os municípios,20,0.12,0.6155
+pib_pc_2023,PIB per capita 2023,todos os municípios,20,0.141,0.5522
+ubs_por_100mil_hab,UBS por 100 mil habitantes,todos os municípios,20,-0.311,0.1816
+cobertura_sisvan_pct,cobertura do SISVAN,todos os municípios,20,-0.441,0.0519
+renda_2010,renda domiciliar per capita 2010,cobertura do SISVAN de 5% ou mais,16,0.309,0.2445
+gini_2010,índice de Gini 2010,cobertura do SISVAN de 5% ou mais,16,0.081,0.7657
+pib_pc_2023,PIB per capita 2023,cobertura do SISVAN de 5% ou mais,16,0.447,0.0825
+ubs_por_100mil_hab,UBS por 100 mil habitantes,cobertura do SISVAN de 5% ou mais,16,-0.674,0.0042
+cobertura_sisvan_pct,cobertura do SISVAN,cobertura do SISVAN de 5% ou mais,16,-0.688,0.0032
