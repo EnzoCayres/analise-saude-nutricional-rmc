@@ -1,0 +1,5 @@
+variavel_a,variavel_b,n,rho,p
+ubs_por_100mil_hab,populacao_total,20,-0.94,0.0
+ubs_por_100mil_hab,cobertura_sisvan_pct,20,0.561,0.0101
+cobertura_sisvan_pct,populacao_total,20,-0.627,0.0031
+obesidade_pct,populacao_total,20,0.367,0.1115
