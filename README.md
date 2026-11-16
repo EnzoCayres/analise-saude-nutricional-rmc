@@ -67,4 +67,4 @@ O banco é gerado em `dados/processados/` e os resultados em `resultados/` e `gr
 
 O projeto nasceu como trabalho em grupo do Projeto Integrador de Ciência de Dados com IA na PUC-Campinas, com dados do SISVAN, IBGE e CNES. Esta versão foi refeita por mim do zero: novo banco relacional, consultas em SQL, tratamento da cobertura, correção de erros de unidade nos dados originais, validações e gráficos.
 
-Enzo Cayres Ferreira · [LinkedIn](https://www.linkedin.com/in/enzo-cayres-ferreira-a1b22444b/)
+Enzo Cayres Ferreira · [LinkedIn](https://www.linkedin.com/in/enzocayres/)
